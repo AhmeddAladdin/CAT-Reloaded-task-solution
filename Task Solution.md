@@ -5,7 +5,7 @@
 
 # 1. Define mean, median, and mode. Give a real-world example of when each would be the most appropriate measure of central tendency.
 
-a) Mean : commonly known as the average value is defined as sum of all the values divided by the total number of values.
+a) Mean : commonly known as the average value is defined as sum of all the values divided by the total number of values. /n
 b) Median : is used when numerical data is sorted in some order and it is the midpoint of the set, making it more resistant to outliers than the mean.
 c) Mode : on the other hand, highlights the value that is most frequently observed in the set of data.
 *For Example in Real Estate:* 
