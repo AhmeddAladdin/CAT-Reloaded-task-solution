@@ -78,7 +78,12 @@ PMF is evaluated at specific point.                                             
 # 8. In normal distribution, what is the percentage of data falls within two standard deviations of the mean?
 - Due to Empirical : the percentage of data falls within two standard deviations of the mean = *95%*
 
+# ------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 
+## Question 2:
+
+# i. For this sample, estimate mean, median, mode, variance and standard deviation.
 
 
 
