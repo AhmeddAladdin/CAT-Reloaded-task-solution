@@ -102,8 +102,15 @@ PMF is evaluated at specific point.                                             
 ## Question 2:
 
 # i. For this sample, estimate mean, median, mode, variance and standard deviation.
+- mean = (3+3+2+1+1+4+1+1+2+2)/10 = 2
+- median => data after sorting = [1, 1, 1, 1, 2, 2, 2, 3, 3, 4]
 
+   mid integers = 2, 2  
 
+   median = (2 + 2)/2 = 2
+- mode = 1
+- variance = sum(x-mean)^2/n-1 = 10/9 = 1.111
+- std deviation = sqrt(variance) = 1.0541
 
 
 
