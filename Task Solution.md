@@ -120,10 +120,43 @@ it will differ only in variance and std deviation
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
-## Question 3
+## Question 3:
 
 - What do you say about the distribution of this sample? How it will affect the mean, median and mode?
+the distribution is left skewed "tail in left or negative direction",, Mode > Median > Mean ,, mean is more affected than other, median is less sensitive.
 
+# ------------------------------------------------------------------------
+# ------------------------------------------------------------------------
+
+## Question 4:
+
+1. What do you know about Python’s containers?
+- List: list items are enclosed in [] ,, list can have different data types ,, it's ordered, use index to access item ,, list items are not unique ,, list are mutable => Replace, Delete, Edit
+- Set: set items are enclosed in {} ,, set is not ordered or indexed ,, can only contain immutable data types, can't contain lists ,, set items is unique
+- Tuple: Items are enclosed in () ,, can remove () if you want ,, tuple are ordered, can use index ,, can't be edited ,, items aren't unique ,, can have any type of data
+- Dictionary : Dict. items are enclosed in curly bracts {} ,, Dict. items are contain key : value ,, Dict. key need to be an immutable ->(strings, numbers, tuple), list not allowed ,, Dict. value can be any type of data ,, Dict. key need to be unique ,, Dict. isn't ordered, can access its element with key
+
+2. What does apply() method do?
+like for loop, we use it to do a specific function to each element within the data.
+
+3. How would you reverse a list in python in one line? (Don’t use reverse() method).
+print(lst[::-1])
+
+4. Compare between continue, break and pass.
+- break: when a certain condition is true, and you want to end the loop now, "break" exit the loop.
+- continue: when you want to skip the rest of the code and go to the next iteration, "continue" skip the rest of the code.
+- pass: do nothing, it's a placeholder make the code looks correct.
+
+5. What is the output of this code?
+=> [1, 2, 3, 4, 5]
+
+6. What is the output of this function?
+[1] [1 1] [1 1 1]
+
+7. What do you know about Object Oriented Programming?
+
+
+8. What do you know about Functional Programming?
 
 
 
