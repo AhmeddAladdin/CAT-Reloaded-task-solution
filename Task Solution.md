@@ -22,7 +22,9 @@ c) Mode : on the other hand, highlights the value that is most frequently observ
 # 2. Explain the concept of variance and standard deviation. How are they related?
 
 i. Variance: The measure of how far the set of data is dispersed from their mean value
+
 ii. Standard deviation : spread of the statistical data from the mean or average position
+
 the relation is : standard deviation is the square root of variance.
 
 # -----------------------------------------------------------------------
@@ -30,12 +32,19 @@ the relation is : standard deviation is the square root of variance.
 # 3. What do you know about Left and right skewness? And what happens to mean, median and mode in each case?
 
   Skewness is a way to describe the symmetry of a distribution.
+
 i. A distribution is a *Right skewed* if it has a "Tail" on right side of the distribution. "Skewness is +ve"
+
 ii. A distribution is a *Left skewed* if it has a "Tail" on left side of the distribution. "Skewness is -ve"
+
 iii. skewness = 0 if the distribution is symmetric.
+
 skewness = mean - mode
+
 in right skewness : mean is bigger than median and mode, so skewness is +
+
 in left skewness : mean is less than median and mode, so skewness is -
+
 in case of mean = mode skewness is = 0
 
 # -----------------------------------------------------------------------
