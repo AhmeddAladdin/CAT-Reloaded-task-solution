@@ -71,20 +71,25 @@ Includes all residents in the city.  VS.  Consists of 1000 households, a subset 
 
 # 6. What is the difference between a discrete and a continuous random variable?
 
-                   discrete                                                    :                            continuous
-They can take only specific or discrete values.                                : They can take any value within a specific range.
-Discrete variables are typically measured on a nominal or ordinal scale.       : Continuous variables are typically measured on an interval or ratio scale.
-Discrete variables are often represented by bar graphs or histograms.          : Continuous variables are often represented by line graphs or smooth curves.
-Discrete variables have probability mass functions (PMF)                       : Continuous variables have probability density functions (PDF).
+                   discrete                                                    VS.                            continuous
+They can take only specific or discrete values.                                VS. They can take any value within a specific range.
+
+Discrete variables are typically measured on a nominal or ordinal scale.       VS. Continuous variables are typically measured on an interval or ratio scale.
+
+Discrete variables are often represented by bar graphs or histograms.          VS. Continuous variables are often represented by line graphs or smooth curves.
+
+Discrete variables have probability mass functions (PMF)                       VS. Continuous variables have probability density functions (PDF).
 
 # ------------------------------------------------------------------------
 
 # 7. What’s the difference between probability mass function and probability density function?
 
-                   PMF                                                                :            PDF
-The PMF is the probability that a discrete random variable takes at an exact value.   : The PDF is the probability that a continuous random variable takes at a specified interval.
-The PMF deals with the discrete random variables.                                     : The PDF deals with the continuous random variables.
-PMF is evaluated at specific point.                                                   : PDF is evaluated at specified interval
+                   PMF                                                                VS.            PDF
+The PMF is the probability that a discrete random variable takes at an exact value.   VS. The PDF is the probability that a continuous random variable takes at a specified interval.
+
+The PMF deals with the discrete random variables.                                     VS. The PDF deals with the continuous random variables.
+
+PMF is evaluated at specific point.                                                   VS. PDF is evaluated at specified interval
 
 # ------------------------------------------------------------------------
 
