@@ -112,10 +112,17 @@ PMF is evaluated at specific point.                                             
 - variance = sum(x-mean)^2/n-1 = 10/9 = 1.111
 - std deviation = sqrt(variance) = 1.0541
 
+# ii. Demonstrate how it will differ if it was the whole population.
+it will differ only in variance and std deviation
+- variance = sum(x-mean)^2/n = 1
+- std deviation = sqrt(variance) = 1
 
+# ------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 
+## Question 3
 
-
+- What do you say about the distribution of this sample? How it will affect the mean, median and mode?
 
 
 
