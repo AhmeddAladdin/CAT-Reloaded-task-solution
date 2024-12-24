@@ -60,11 +60,12 @@ Therefore, outliers distort results and indicate special or rare occurrences. He
 
 # 5. What’s the difference between population and sample? Do the same measurements (mean, mode, median) apply to both?
 
-            population                                                        :                         sample
-The population includes all members of a specified group.                     : A sample is a subset of the population.
-Collecting data from an entire population can be time-consuming, expensive,   : Samples offer a more feasible approach to studying populations, allowing researchers to 
- and sometimes impractical or impossible.                                        draw conclusions based on smaller, manageable datasets 
-Includes all residents in the city.                                           : Consists of 1000 households, a subset of the entire population.
+            population                                                                                                 :                         sample
+The population includes all members of a specified group.                                                              : A sample is a subset of the population.
+
+Collecting data from an entire population can be time-consuming, expensive, and sometimes impractical or impossible.   : Samples offer a more feasible approach to studying populations, allowing researchers to draw conclusions based on smaller, manageable datasets
+
+Includes all residents in the city.                                                                                    : Consists of 1000 households, a subset of the entire population.
 - yes, (mean, median, and mode) apply to both.
 # ------------------------------------------------------------------------
 
