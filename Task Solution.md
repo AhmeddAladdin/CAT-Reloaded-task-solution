@@ -138,9 +138,11 @@ the distribution is left skewed "tail in left or negative direction",, Mode > Me
 - Dictionary : Dict. items are enclosed in curly bracts {} ,, Dict. items are contain key : value ,, Dict. key need to be an immutable ->(strings, numbers, tuple), list not allowed ,, Dict. value can be any type of data ,, Dict. key need to be unique ,, Dict. isn't ordered, can access its element with key
 
 2. What does apply() method do?
+
 like for loop, we use it to do a specific function to each element within the data.
 
 3. How would you reverse a list in python in one line? (Don’t use reverse() method).
+
 print(lst[::-1])
 
 4. Compare between continue, break and pass.
@@ -149,15 +151,19 @@ print(lst[::-1])
 - pass: do nothing, it's a placeholder make the code looks correct.
 
 5. What is the output of this code?
+
 => [1, 2, 3, 4, 5]
 
 6. What is the output of this function?
-[1] [1 1] [1 1 1]
+
+=> [1] [1 1] [1 1 1]
 
 7. What do you know about Object Oriented Programming?
+
 OOP is a way of writing code by dividing it into parts called objects. Each object contains data, which represents its role or function. The benefits of OOP are making the code reusable, organized, and easy to modify or expand.
 
 8. What do you know about Functional Programming?
+
 Functional Programming is a style of writing code, like OOP, but it mainly focuses on functions. It considers functions as the basic building blocks for writing the entire program. In the end, the code is structured as a collection of functions.
 
 # ------------------------------------------------------------------------
