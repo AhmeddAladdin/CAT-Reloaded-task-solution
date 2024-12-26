@@ -170,39 +170,29 @@ Functional Programming is a style of writing code, like OOP, but it mainly focus
 # ------------------------------------------------------------------------
 
 # Problem solving:
-n, m, a, b = map(int, input().split())
-
-case_1 = n * a
-
-case_2 = (n // m) * b + (n % m) * a
-
-print(min(case_1, case_2))
+          n, m, a, b = map(int, input().split())
+          
+          case_1 = n * a
+          case_2 = (n // m) * b + (n % m) * a
+          
+          print(min(case_1, case_2))
 
 # -------------------------------------------------------------------------
 
 # Bonus
 
-t = int(input())
-
-for i in range(t):
-
-    a, b, c, n = list(map(int, input().split()))
-    
-    max_val = max(a, b, c)
-    
-    given = (max_val - a) + (max_val - b) + (max_val - c)
-    
-    if given == n:
-    
-        print("YES")
-        
-    elif given < n and (n - given) % 3 == 0:
-    
-        print("YES")
-        
-    else:
-    
-        print("NO")
+          t = int(input())
+          
+          for i in range(t):
+              a, b, c, n = list(map(int, input().split()))
+              max_val = max(a, b, c)
+              given = (max_val - a) + (max_val - b) + (max_val - c)
+              if given == n:
+                  print("YES")
+              elif given < n and (n - given) % 3 == 0:
+                  print("YES")
+              else:
+                  print("NO")
 
 
 
