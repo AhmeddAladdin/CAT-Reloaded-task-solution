@@ -154,9 +154,47 @@ print(lst[::-1])
 [1] [1 1] [1 1 1]
 
 7. What do you know about Object Oriented Programming?
-
+OOP is a way of writing code by dividing it into parts called objects. Each object contains data, which represents its role or function. The benefits of OOP are making the code reusable, organized, and easy to modify or expand.
 
 8. What do you know about Functional Programming?
+Functional Programming is a style of writing code, like OOP, but it mainly focuses on functions. It considers functions as the basic building blocks for writing the entire program. In the end, the code is structured as a collection of functions.
+
+# ------------------------------------------------------------------------
+# ------------------------------------------------------------------------
+
+# Problem solving:
+n, m, a, b = map(int, input().split())
+
+case_1 = n * a
+case_2 = (n // m) * b + (n % m) * a
+
+print(min(case_1, case_2))
+
+# -------------------------------------------------------------------------
+
+# Bonus
+
+t = int(input())
+
+for i in range(t):
+    a, b, c, n = list(map(int, input().split()))
+    max_val = max(a, b, c)
+    given = (max_val - a) + (max_val - b) + (max_val - c)
+    if given == n:
+        print("YES")
+    elif given < n and (n - given) % 3 == 0:
+        print("YES")
+    else:
+        print("NO")
+
+
+
+
+
+
+
+
+
 
 
 
