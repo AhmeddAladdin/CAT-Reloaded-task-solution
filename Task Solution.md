@@ -123,6 +123,7 @@ it will differ only in variance and std deviation
 ## Question 3:
 
 - What do you say about the distribution of this sample? How it will affect the mean, median and mode?
+
 the distribution is left skewed "tail in left or negative direction",, Mode > Median > Mean ,, mean is more affected than other, median is less sensitive.
 
 # ------------------------------------------------------------------------
