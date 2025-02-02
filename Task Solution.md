@@ -143,7 +143,7 @@ like for loop, we use it to do a specific function to each element within the da
 
 3. How would you reverse a list in python in one line? (Don’t use reverse() method).
 
-print(lst[::-1])
+       print(lst[::-1])
 
 4. Compare between continue, break and pass.
 - break: when a certain condition is true, and you want to end the loop now, "break" exit the loop.
